@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Game Development.<br>⚡ I'm incredible passionate about learning different technologies.<br>🤝 I’m looking to form connections with people that can help me learn game design.
+🔭 I’m currently working with Flutter<br>🌱 I’m currently learning Game Development.<br>⚡ I'm incredible passionate about learning different technologies.<br>🤝 I’m looking to form connections with people that can help me learn game design.
 
 
 ## 🌐 Socials:
